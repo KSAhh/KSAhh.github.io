@@ -1,4 +1,7 @@
+#Site
+name: 'Study Note'
+description : '공부 정리 노트'
 theme: jekyll-theme-slate
 title: 🦁크와아앙
-name: "Soo"
+baseurl: ""
 url: https://KSAhh.github.io/
