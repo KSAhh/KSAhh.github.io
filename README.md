@@ -15,38 +15,77 @@
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson2_1.html">
   예제 코드(1)
   </a> <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson2_2.html">예제 코드(2)</a><br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson2_2.html">
+  예제 코드(2)
+  </a> <br>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/3%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%83%9C%EA%B7%B8.md">3강</a> Text tag <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson3.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/3%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%83%9C%EA%B7%B8.md">
+  3강
+</a> Text tag <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson3.html">
+  예제 코드
+  </a> <br>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/4%20%EB%A7%81%ED%81%AC%20%ED%83%9C%EA%B7%B8.md">4강</a> Link tag <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson4.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/4%20%EB%A7%81%ED%81%AC%20%ED%83%9C%EA%B7%B8.md">
+  4강
+</a> Link tag <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson4.html">
+  예제 코드
+  </a> <br>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/5%20%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%83%9C%EA%B7%B8.md">5강</a> Multimedia tag <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson5.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/5%20%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%83%9C%EA%B7%B8.md">
+  5강
+</a> Multimedia tag <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson5.html">
+  예제 코드
+  </a> <br>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/6%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%26%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md">6강</a> Table & List <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">예제 코드</a>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/6%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%26%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md">
+  6강
+</a> Table & List <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">
+  예제 코드
+  </a>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">7강</a> Form tag <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">
+  7강
+</a> Form tag <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">
+  예제 코드
+  </a> <br>
 
 <br>
+
 <h3>
-  <strong> CSS 강의정리 </strong><br/>
+  <strong> CSS 강의정리 </strong> <br>
 </h3>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">8, 9강</a> CSS : basic & Selector <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">8강 예제 코드(.html)</a><br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">8강 예제 코드(.css)</a><br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">9강 예제 코드</a><br/>  
+<a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">
+  8, 9강
+</a> CSS : basic & Selector <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">
+  8강 예제 코드(.html)
+</a> <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">
+  8강 예제 코드(.css)
+</a> <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">
+  9강 예제 코드
+</a> <br/>  
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/10%20%EA%B0%92%20%26%20%EB%8B%A8%EC%9C%84.md">10강</a> Value & Units<br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/10%20%EA%B0%92%20%26%20%EB%8B%A8%EC%9C%84.md">
+  10강
+</a> Value & Units <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">
+  예제 코드
+  </a> <br>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/11%20%ED%8F%B0%ED%8A%B8%20property.md">11강</a> Font property<br>
-- < a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">예제 코드</a><br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/11%20%ED%8F%B0%ED%8A%B8%20property.md">
+  11강
+</a> Font property <br>
+- < a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">
+예제 코드
+  </a> <br>
 
 .
 
