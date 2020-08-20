@@ -28,9 +28,13 @@
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">예제 코드</a><br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">8, 9강</a> CSS : basic & Selector <br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">8강 예제코드(.html)</a><br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">8강 예제코드(.css)</a><br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">9강 예제코드</a><br/>  
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">8강 예제 코드(.html)</a><br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">8강 예제 코드(.css)</a><br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">9강 예제 코드</a><br/>  
+
+<a href="https://github.com/KSAhh/Study/blob/master/Study/10%20%EA%B0%92%20%26%20%EB%8B%A8%EC%9C%84.md">10강</a> Value & Units<br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">예제 코드</a><br>
+
 
 .
 
