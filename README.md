@@ -27,6 +27,11 @@
 <a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">7강</a> Form tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">예제 코드</a><br>
 
+<br>
+<h3>
+  <strong> CSS 강의정리 </strong><br/>
+</h3>
+
 <a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">8, 9강</a> CSS : basic & Selector <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">8강 예제 코드(.html)</a><br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">8강 예제 코드(.css)</a><br>
