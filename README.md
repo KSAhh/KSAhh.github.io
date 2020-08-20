@@ -6,7 +6,7 @@
   <p>- blog 공부 필요<br></p>
 
 <h3>
-  <strong> HTML 강의정리 </strong><br/>
+  <strong> HTML 강의정리 </strong><br>
 </h3>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/1%2C2%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%AC%EC%84%B1.md">
@@ -38,6 +38,7 @@
   </a> <br>
 
 <br>
+
 <a href="https://github.com/KSAhh/Study/blob/master/Study/5%20%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%83%9C%EA%B7%B8.md">
   5강
 </a> Multimedia tag <br>
@@ -52,9 +53,10 @@
 </a> Table & List <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">
   예제 코드
-  </a>
+  </a> <br>
 
 <br>
+
 <a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">
   7강
 </a> Form tag <br>
@@ -66,7 +68,7 @@
 
 <h3>
   <strong> CSS 강의정리 </strong> <br>
-</h3>
+</h3> <br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">
   8, 9강
@@ -79,7 +81,7 @@
 </a> <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">
   9강 예제 코드
-</a> <br/>  
+</a> <br>  
 
 <br>
 
