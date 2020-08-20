@@ -17,7 +17,7 @@
   </a> <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson2_2.html">
   예제 코드(2)
-  </a> <br>
+  </a>
 
 <br>
 
@@ -26,7 +26,7 @@
 </a> Text tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson3.html">
   예제 코드
-  </a> <br>
+  </a>
 
 <br>
 
@@ -35,7 +35,7 @@
 </a> Link tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson4.html">
   예제 코드
-  </a> <br>
+  </a>
 
 <br>
 
@@ -44,7 +44,7 @@
 </a> Multimedia tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson5.html">
   예제 코드
-  </a> <br>
+  </a>
 
 <br>
 
@@ -53,7 +53,7 @@
 </a> Table & List <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">
   예제 코드
-  </a> <br>
+  </a>
 
 <br>
 
@@ -62,7 +62,7 @@
 </a> Form tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">
   예제 코드
-  </a> <br>
+  </a>
 
 <br><br>
 
@@ -81,7 +81,7 @@
 </a> <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">
   9강 예제 코드
-</a> <br>  
+</a>
 
 <br>
 
@@ -97,7 +97,9 @@
 </a> Font property <br>
 - < a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">
 예제 코드
-  </a> <br>
+  </a>
+  
+<br>
 
 .
 
