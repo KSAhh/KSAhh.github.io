@@ -30,4 +30,7 @@
 <a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">8, 9강</a><br> CSS : basic & Selector <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8.html">8강 예제코드(.html)</a><br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson8_test.css">8강 예제코드(.css)</a><br>
-- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">9강 예제코드</
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson9.html">9강 예제코드</a><br/>  
+
+
+
