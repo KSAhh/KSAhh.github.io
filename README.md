@@ -35,6 +35,8 @@
 <a href="https://github.com/KSAhh/Study/blob/master/Study/10%20%EA%B0%92%20%26%20%EB%8B%A8%EC%9C%84.md">10강</a> Value & Units<br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">예제 코드</a><br>
 
+<a href="https://github.com/KSAhh/Study/blob/master/Study/11%20%ED%8F%B0%ED%8A%B8%20property.md">11강</a> Font property<br>
+- < a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">예제 코드</a><br>
 
 .
 
