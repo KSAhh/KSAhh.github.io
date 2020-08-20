@@ -90,16 +90,28 @@
 </a> Value & Units <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">
   예제 코드
-  </a> <br>
+  </a>
+  
+<br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/11%20%ED%8F%B0%ED%8A%B8%20property.md">
   11강
 </a> Font property <br>
-- < a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson11.html">
 예제 코드
   </a>
   
 <br>
+
+<a href="https://github.com/KSAhh/Study/blob/master/Study/12%20%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8ing.md">
+  12강
+</a> Box Model <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson12.html">
+   예제 코드
+  </a>
+  
+  <br>
+  
 
 .
 
