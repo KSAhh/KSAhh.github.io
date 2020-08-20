@@ -24,7 +24,7 @@
 <a href="https://github.com/KSAhh/Study/blob/master/Study/6%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%26%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md">6강</a> Table & List <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">예제 코드</a>
 
-<a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">7강ing</a> Form tag <br>
+<a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">7강</a> Form tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson7.html">예제 코드</a><br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/CSS.md">8강</
