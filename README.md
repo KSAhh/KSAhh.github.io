@@ -110,8 +110,33 @@
    예제 코드
   </a>
   
-  <br>
+<br>
+
+<a href="https://github.com/KSAhh/Study/blob/master/Study/13%2C14%20%EC%9C%84%EC%B9%98%20property.md"> 13,14강
+</a> 위치 속성 <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson14-1.html">
+  예제 코드
+  </a>
   
+<br>
+  
+<a href="https://github.com/KSAhh/Study/blob/master/Study/15%20%EC%83%81%EC%86%8D%20%26%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md"<
+15강
+</a> 상속 & 우선순위 <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson15.html">
+  예제코드(.html)
+  </a>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson15.css">
+  예제코드(.css)
+  </a>
+
+<br>
+  
+<a href="https://github.com/KSAhh/Study/blob/master/Study/Sourcetree.md">
+  Sourcetree
+</a>
+
+<br>
 
 .
 
