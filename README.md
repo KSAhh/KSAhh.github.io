@@ -120,7 +120,7 @@
   
 <br>
   
-<a href="https://github.com/KSAhh/Study/blob/master/Study/15%20%EC%83%81%EC%86%8D%20%26%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md"<
+<a href="https://github.com/KSAhh/Study/blob/master/Study/15%20%EC%83%81%EC%86%8D%20%26%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md">
 15강
 </a> 상속 & 우선순위 <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson15.html">
