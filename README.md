@@ -19,8 +19,6 @@
   예제 코드(2)
   </a>
 
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/3%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%83%9C%EA%B7%B8.md">
   3강
 </a> Text tag <br>
@@ -138,5 +136,14 @@
 
 <br>
 
+<a href="https://github.com/KSAhh/Study/blob/master/Study/16%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9.md">
+  16강
+</a> 부트스트랩 <br>
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson16.html">
+  예제코드(1)
+  </a>
+- < href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson16-1.html">
+  예제코드(2)
+  </a>
 .
 
