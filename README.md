@@ -26,16 +26,12 @@
   예제 코드
   </a>
 
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/4%20%EB%A7%81%ED%81%AC%20%ED%83%9C%EA%B7%B8.md">
   4강
 </a> Link tag <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson4.html">
   예제 코드
   </a>
-
-<br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/5%20%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%83%9C%EA%B7%B8.md">
   5강
@@ -44,16 +40,12 @@
   예제 코드
   </a>
 
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/6%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%26%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md">
   6강
 </a> Table & List <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson6.html">
   예제 코드
   </a>
-
-<br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/7%20%ED%8F%BC%20%ED%83%9C%EA%B7%B8(%EB%93%A3%EB%8A%94%EC%A4%91).md">
   7강
@@ -62,7 +54,7 @@
   예제 코드
   </a>
 
-<br><br>
+<br>
 
 <h3>
   <strong> CSS 강의정리 </strong> <br>
@@ -81,16 +73,12 @@
   9강 예제 코드
 </a>
 
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/10%20%EA%B0%92%20%26%20%EB%8B%A8%EC%9C%84.md">
   10강
 </a> Value & Units <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson10.html">
   예제 코드
   </a>
-  
-<br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/11%20%ED%8F%B0%ED%8A%B8%20property.md">
   11강
@@ -99,8 +87,6 @@
 예제 코드
   </a>
   
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/12%20%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8ing.md">
   12강
 </a> Box Model <br>
@@ -108,15 +94,11 @@
    예제 코드
   </a>
   
-<br>
-
 <a href="https://github.com/KSAhh/Study/blob/master/Study/13%2C14%20%EC%9C%84%EC%B9%98%20property.md"> 13,14강
 </a> 위치 속성 <br>
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson14-1.html">
   예제 코드
   </a>
-  
-<br>
   
 <a href="https://github.com/KSAhh/Study/blob/master/Study/15%20%EC%83%81%EC%86%8D%20%26%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md">
 15강
@@ -128,13 +110,9 @@
   예제코드(.css)
   </a>
 
-<br>
-  
 <a href="https://github.com/KSAhh/Study/blob/master/Study/Sourcetree.md">
   Sourcetree
 </a>
-
-<br>
 
 <a href="https://github.com/KSAhh/Study/blob/master/Study/16%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9.md">
   16강
@@ -142,7 +120,7 @@
 - <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson16.html">
   예제코드(1)
   </a>
-- < href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson16-1.html">
+- <a href="https://github.com/KSAhh/Study/blob/master/Study/%5BPrac%5D%20lesson16-1.html">
   예제코드(2)
   </a>
 .
